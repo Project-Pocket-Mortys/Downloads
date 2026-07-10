@@ -38,7 +38,7 @@ Works on:
 
 ## 📥 Required File
 
-### 👉 **[Download global-metadata.dat](https://github.com/ConspiracyRick/Project-Pocket-Mortys/releases/download/v1.0.0-beta.2/global-metadata.dat)**
+### 👉 **[Download global-metadata.dat](https://github.com/Project-Pocket-Mortys/Downloads/releases/download/Global-Metadata/global-metadata.dat)**
 
 # 📦 Method 1 — File Manager (Easiest)
 
