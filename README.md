@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ConspiracyRick/Pocket-Mortys-Public-Server/releases">
-    <img src="https://img.shields.io/badge/Version-2.41.0-blue?style=for-the-badge" />
-  </a>
   <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge&logo=server&logoColor=white" />
 </p>
 
