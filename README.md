@@ -1,9 +1,16 @@
-# 📱 Pocket Mortys – Official 2.41.0 Tutorial Global Metadata Fix Guide
+<p align="center">
+  <h1 align="center">Project Pocket Mortys</h1>
+  <p align="center">
+    Community-maintained backend server for Pocket Mortys
+  </p>
+</p>
 
-![Status](https://img.shields.io/badge/status-work%20in%20progress-yellow)
-
-> ⚠️ **Work in Progress**
-> Not everything may work on every device or Android version.
+<p align="center">
+  <a href="https://github.com/ConspiracyRick/Pocket-Mortys-Public-Server/releases">
+    <img src="https://img.shields.io/badge/Version-2.41.0-blue?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge&logo=server&logoColor=white" />
+</p>
 
 This guide explains how to restore online functionality by replacing:
 ```
